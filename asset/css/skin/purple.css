@@ -1,0 +1,12 @@
+.swiper-slide a{
+	background-color: rgba(84, 59, 116, 0.35);
+}
+.show .text {
+    background-color: #543b74;
+}
+.footer {
+	background-color: #543b74;
+}
+.footer ul li {
+	color: #fff;
+}
